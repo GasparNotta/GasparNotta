@@ -1,9 +1,3 @@
-<div>
-  <img style="width:100%" alt="Header wave"
-       src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&animation=fadeIn&color=0:111827,100:0b1220" />
-</div>
-
-
 ## Hola, soy Gaspar Notta 👋 
 
 Estudiante de **Ingeniería Informática (FIUBA)** — 4.º año. Me apasiona crear software end-to-end: web full-stack, redes, concurrencia y apps de escritorio. Valoro el código mantenible, la documentación y un CI con tests.
@@ -74,13 +68,10 @@ Estudiante de **Ingeniería Informática (FIUBA)** — 4.º año. Me apasiona cr
 ### 🚀 Portfolio
 
 <div align="center">
-
   <img
     src="https://placehold.co/1280x720/0f172a/e5e7eb?text=PORTFOLIO+%E2%80%94+PR%C3%93XIMAMENTE&font=source-sans-pro"
     alt="Vista previa del portfolio (próximamente)"
     width="960" />
-
-  <br /><br />
 </div>
 
 ---
@@ -123,10 +114,3 @@ Estudiante de **Ingeniería Informática (FIUBA)** — 4.º año. Me apasiona cr
 </p>
 
 ---
-
-
-<div>
-  <img style="width:100%" alt="Footer wave"
-       src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=500&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0:0b1220,100:111827" />
-</div>
-
