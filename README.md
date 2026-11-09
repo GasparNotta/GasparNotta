@@ -65,17 +65,6 @@ Estudiante de **Ingeniería Informática (FIUBA)** — 4.º año. Me apasiona cr
 
 ---
 
-### 🚀 Portfolio
-
-<div align="center">
-  <img
-    src="https://placehold.co/1280x720/0f172a/e5e7eb?text=PORTFOLIO+%E2%80%94+PR%C3%93XIMAMENTE&font=source-sans-pro"
-    alt="Vista previa del portfolio (próximamente)"
-    width="960" />
-</div>
-
----
-
 ### 📫 Contacto
 
 <p align="left">
